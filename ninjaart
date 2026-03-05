@@ -1,0 +1,2 @@
+#!/bin/bash
+cd /usr/share/ninjaart/ && /usr/bin/env python3 ninjaart.py
