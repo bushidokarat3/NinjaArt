@@ -66,7 +66,7 @@ Multiple built-in themes for comfortable extended use:
 
 It is recommended to use **Kali Linux** as it already has most tools installed. NinjaArt should also work on other Debian-based systems.
 
-### Kali 2020+:
+### Kali 2025+:
 ```bash
 sudo apt install python3-sqlalchemy python3-pyqt5 wkhtmltopdf
 ```
