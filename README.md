@@ -1,4 +1,5 @@
 # NinjaArt
+<img width="500" height="500" alt="NinjaArt_logo" src="https://github.com/user-attachments/assets/a807093a-5776-4bc0-b701-22152a60e647" />
 
 A network infrastructure penetration testing tool - a fork and enhancement of SPARTA.
 
